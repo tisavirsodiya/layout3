@@ -81,11 +81,56 @@
     text-align:left;
     background-color: aqua;
     padding-right:10px;
-    padding-left: 10px;
-    padding-top:10px;
-    padding-bottom: 10 px;
+    padding-left: 57px;
+    padding-top:25px;
+    padding-bottom:25px;
  }
-
+ .last_left
+ {
+ text-align: left;
+ background-color: wheat;
+ padding-right:43px;
+ padding-left:72px;
+ padding-top:40px;
+ padding-bottom:40px;
+ margin-left:14px;
+ margin-right:395px;
+ }
+ .ourcompany
+ {
+ color: red;
+ }
+ .hr
+ {
+color:red;
+width:70%;
+height:10%;
+ }
+ .logo
+ {
+ background-color:lightskyblue; 
+ padding-right:350px;
+ padding-left:61px;
+ padding-top:20px;
+ padding-bottom:12px;
+ margin-left:729px;
+ margin-top:-706px;
+ margin-right:559px;
+ }
+ .last_right
+ {
+  right:10px;  
+  text-align:right;  
+  padding-right:10px;
+  padding-left: 10px;
+  padding-top:25px;
+  padding-bottom: 25 px;
+ }
+.second
+{
+ color:aqua;
+ text-align:center;
+}
 
 
 
